@@ -3,9 +3,9 @@
 A fork of [opnecv_zoo](https://github.com/opencv/opencv_zoo)
 
 ## Start
-Start by creating a virtual environment for python and installing the required packages
 
-```sh
+Start by creating a virtual environment for python and installing the required packages.
+```sh 
 cd path/to/cv_workshop
 python -m venv env
 ```
@@ -16,6 +16,11 @@ source env/bin/activate
 - For Windows
 ```sh
 .\env\Scripts\activate
+```
+
+Install required packages (may need pip3)
+```sh
+pip install -r requirements
 ```
 
 Then run
