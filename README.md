@@ -32,7 +32,8 @@ python yunet_cam.py
 
 run
 ```sh
-python models/pose_estimation_mediapipe
+cd models/pose_estimation_mediapipe
+python demo.py
 ```
 
 ## More Resources
